@@ -2,9 +2,9 @@
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor front-end
 - 🌱 Estudando Typescript e VueJs ...
-- 👯 Projetos que me ajudem a desenvolver minhas habilidades como front-end
-- 🤔 VueJs
-- 💬 Games e Animes
+- 👯 Adoro projetos que me ajudem a desenvolver minhas habilidades como front-end
+- 🤔 Tentando aprender VueJs
+- 💬 Apaixonado por Games e Animes
 - 📫 Como chegar até mim: diogo.alcantara1997@gmail.com
 
 <div align="center">
